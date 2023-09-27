@@ -2,7 +2,7 @@
 
 ## Model download
 
-From [GitHub release page](xxx) download the model files.
+From [GitHub release page](https://github.com/Appsilon/copepods-lipid-content/releases/) download the model files.
 Put them into `models` subfolder so this directory looks more or less like:
 
 ```
